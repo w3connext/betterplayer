@@ -13,12 +13,13 @@ environment:
 
 dependency_overrides:
   meta: 1.15.0
+  win32: 5.0.0
 
 dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
-  wakelock: ^0.6.2
+  wakelock: 0.6.2
   meta: 1.15.0
   flutter_widget_from_html_core: ^0.14.12
   visibility_detector: ^0.4.0+2
